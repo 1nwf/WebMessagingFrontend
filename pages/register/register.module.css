@@ -1,0 +1,15 @@
+.main {
+  height: 100%;
+  width: 100%;
+  text-align: center;
+  top: 15%;
+  position: fixed;
+}
+
+.input {
+  margin-right: 10px !important;
+}
+
+.buttons {
+  display: inline-flex;
+}
